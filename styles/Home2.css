@@ -1,0 +1,12 @@
+.main-content {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.service-row {
+    align-items: center;
+}
+.section-img {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
